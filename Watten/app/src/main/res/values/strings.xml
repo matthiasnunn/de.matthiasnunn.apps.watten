@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Watten</string>
+
+    <string name="new_game">New Game</string>
+    <string name="continue_game">Continue Game</string>
+    <string name="settings">Settings</string>
+
+    <string name="two_players">2 Players</string>
+    <string name="four_players">4 Players</string>
+
+    <string name="player_one">Player</string>
+    <string name="player_two">Computer 1</string>
+    <string name="player_three">Computer 2</string>
+    <string name="player_four">Computer 3</string>
+
+    <string name="save">Save</string>
+
+    <string name="striker">Striker</string>
+    <string name="trump">Trump</string>
+    <string name="stiche">Stiche</string>
+    <string name="score">Score</string>
+
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+    <string name="ten">Ten</string>
+    <string name="unter">Unter</string>
+    <string name="ober">Ober</string>
+    <string name="king">King</string>
+    <string name="ass">Ass</string>
+
+    <string name="acorn">Acorn</string>
+    <string name="bell">Bell</string>
+    <string name="heart">Heart</string>
+    <string name="leave">Leave</string>
+
+    <string name="round_win">You win this round!</string>
+    <string name="round_win_team">Your team win this round!</string>
+
+    <string name="round_lose">You lose this round!</string>
+    <string name="round_lose_team">Your team lose this round!</string>
+
+    <string name="game_win">You win this game!</string>
+    <string name="game_win_team">Your team win this game!</string>
+
+    <string name="game_lose">You lose this game!</string>
+    <string name="game_lose_team">Your team lose this game!</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <objectAnimator
+        android:propertyName="translationX"
+        android:valueType="floatType"
+        android:startOffset="@integer/first_translation_offset"
+        android:duration="@integer/translation_duration"
+        android:valueFrom="0"
+        android:valueTo="@dimen/translation_left" />
+
+    <objectAnimator
+        android:propertyName="rotationY"
+        android:startOffset="@integer/first_rotation_offset"
+        android:duration="@integer/rotation_duration"
+        android:valueFrom="0"
+        android:valueTo="@integer/rotation_left" />
+
+    <objectAnimator
+        android:propertyName="rotationY"
+        android:startOffset="@integer/second_offset"
+        android:duration="@integer/rotation_duration"
+        android:valueFrom="@integer/rotation_left"
+        android:valueTo="0" />
+
+    <objectAnimator
+        android:propertyName="translationX"
+        android:valueType="floatType"
+        android:startOffset="@integer/second_offset"
+        android:duration="@integer/translation_duration"
+        android:valueFrom="@dimen/translation_left"
+        android:valueTo="0" />
+
+</set>

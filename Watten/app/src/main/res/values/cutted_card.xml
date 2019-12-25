@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Player 1 - 4 -->
+
+    <integer name="first_translation_offset">0</integer>
+    <integer name="first_rotation_offset">300</integer> <!-- ( delta translation_duration and rotation_duration ) + first_translation_offset -->
+
+    <integer name="translation_duration">500</integer>
+    <integer name="rotation_duration">200</integer>
+
+    <integer name="rotation_out_duration">500</integer>
+
+    <integer name="second_offset">1000</integer> <!-- translation_duration + first_translation_offset + <time between the first translation/rotation and the second translation/rotation> = second_offset -->
+
+    <dimen name="translation_left">-100dp</dimen>
+    <dimen name="translation_right">100dp</dimen>
+
+    <integer name="rotation_left">60</integer>
+    <integer name="rotation_right">-60</integer>
+
+    <dimen name="translation_top">-180dp</dimen>
+    <dimen name="translation_bottom">180dp</dimen>
+
+    <integer name="rotation_top">-30</integer>
+
+    <integer name="reset_offset">1500</integer> <!-- second_offset + ( translation_duration || rotation_out_duration ) -->
+
+
+    <!-- additional for Player 1 -->
+
+    <integer name="offset_helper">500</integer> <!-- translation_duration + first_translation_offset -->
+
+    <integer name="second_offset_player1">2000</integer> <!-- 2 x translation_duration + <time before slideOut or showBoard> = second_offset_player1 -->
+
+</resources>
