@@ -1,9 +1,9 @@
-package de.matthiasnunn.watten.logic.player;
+package de.matthiasnunn.apps.watten.logic.player;
 
-import de.matthiasnunn.watten.logic.Card;
-import de.matthiasnunn.watten.logic.Color;
-import de.matthiasnunn.watten.logic.Turn;
-import de.matthiasnunn.watten.logic.Value;
+import de.matthiasnunn.apps.watten.logic.Card;
+import de.matthiasnunn.apps.watten.logic.Color;
+import de.matthiasnunn.apps.watten.logic.Turn;
+import de.matthiasnunn.apps.watten.logic.Value;
 
 import java.util.HashMap;
 import java.util.LinkedHashMap;

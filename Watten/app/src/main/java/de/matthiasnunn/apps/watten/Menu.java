@@ -1,4 +1,4 @@
-package de.matthiasnunn.watten;
+package de.matthiasnunn.apps.watten;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-import de.matthiasnunn.watten.util.GameSerializer;
+import de.matthiasnunn.apps.watten.util.GameSerializer;
 
 
 public class Menu extends Fragment

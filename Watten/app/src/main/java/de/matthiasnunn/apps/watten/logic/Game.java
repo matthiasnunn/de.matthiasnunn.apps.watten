@@ -1,6 +1,6 @@
-package de.matthiasnunn.watten.logic;
+package de.matthiasnunn.apps.watten.logic;
 
-import de.matthiasnunn.watten.logic.player.*;
+import de.matthiasnunn.apps.watten.logic.player.*;
 
 import java.io.Serializable;
 import java.util.ArrayList;

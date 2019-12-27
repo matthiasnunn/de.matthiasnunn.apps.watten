@@ -1,4 +1,4 @@
-package de.matthiasnunn.watten.util;
+package de.matthiasnunn.apps.watten.util;
 
 import android.content.Context;
 
@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
-import de.matthiasnunn.watten.logic.Game;
+import de.matthiasnunn.apps.watten.logic.Game;
 
 
 public class GameSerializer

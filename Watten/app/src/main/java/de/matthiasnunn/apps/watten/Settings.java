@@ -1,4 +1,4 @@
-package de.matthiasnunn.watten;
+package de.matthiasnunn.apps.watten;
 
 import android.content.Context;
 import android.content.SharedPreferences;

@@ -1,10 +1,10 @@
-package de.matthiasnunn.watten.logic;
+package de.matthiasnunn.apps.watten.logic;
 
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
 
-import de.matthiasnunn.watten.logic.player.Player;
+import de.matthiasnunn.apps.watten.logic.player.Player;
 
 
 public class Stich implements Serializable

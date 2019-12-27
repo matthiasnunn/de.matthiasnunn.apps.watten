@@ -1,4 +1,4 @@
-package de.matthiasnunn.watten;
+package de.matthiasnunn.apps.watten;
 
 import android.animation.Animator;
 import android.animation.AnimatorInflater;
@@ -20,9 +20,9 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import de.matthiasnunn.watten.logic.*;
-import de.matthiasnunn.watten.logic.player.*;
-import de.matthiasnunn.watten.util.GameSerializer;
+import de.matthiasnunn.apps.watten.logic.*;
+import de.matthiasnunn.apps.watten.logic.player.*;
+import de.matthiasnunn.apps.watten.util.GameSerializer;
 
 import java.util.ArrayList;
 import java.util.List;

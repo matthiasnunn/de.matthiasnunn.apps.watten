@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="de.matthiasnunn.watten">
+          package="de.matthiasnunn.apps.watten">
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"></uses-permission>
@@ -13,7 +13,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="de.matthiasnunn.watten.MainActivity"
+            android:name="de.matthiasnunn.apps.watten.MainActivity"
             android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -22,7 +22,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="de.matthiasnunn.watten.GameActivity"
+            android:name="de.matthiasnunn.apps.watten.GameActivity"
             android:screenOrientation="portrait">
         </activity>
     </application>

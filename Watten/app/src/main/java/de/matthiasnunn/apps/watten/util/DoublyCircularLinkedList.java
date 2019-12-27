@@ -1,4 +1,4 @@
-package de.matthiasnunn.watten.util;
+package de.matthiasnunn.apps.watten.util;
 
 
 public interface DoublyCircularLinkedList<T>

@@ -1,4 +1,4 @@
-package de.matthiasnunn.watten.logic;
+package de.matthiasnunn.apps.watten.logic;
 
 import java.io.Serializable;
 

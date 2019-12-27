@@ -1,11 +1,11 @@
-package de.matthiasnunn.watten.logic;
+package de.matthiasnunn.apps.watten.logic;
 
 import org.junit.Test;
 
 import java.util.ArrayList;
 
-import de.matthiasnunn.watten.logic.player.ComputerPlayer;
-import de.matthiasnunn.watten.logic.player.Player;
+import de.matthiasnunn.apps.watten.logic.player.ComputerPlayer;
+import de.matthiasnunn.apps.watten.logic.player.Player;
 
 import static org.junit.Assert.assertEquals;
 

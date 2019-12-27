@@ -1,4 +1,4 @@
-package de.matthiasnunn.watten;
+package de.matthiasnunn.apps.watten;
 
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
